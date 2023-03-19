@@ -36,6 +36,7 @@ library(EnvStats)
 library(xtable)
 library(grid)
 library(DT)
+library(rhandsontable)
 
 # Set theme
 my_theme <- create_theme(
